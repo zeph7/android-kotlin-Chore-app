@@ -16,7 +16,7 @@ Its a Database Chore Record App!!
 
 ## Features
 
-* Database
+* SQLite Database
 * Splash screen
 * Animation styles
 * Customised buttons
