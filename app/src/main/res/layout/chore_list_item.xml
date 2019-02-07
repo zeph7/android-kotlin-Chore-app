@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent">
+    <android.support.constraint.ConstraintLayout
+            android:layout_width="362dp"
+            android:layout_height="105dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
+            android:background="@color/colorList"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+                android:layout_width="250dp"
+                android:layout_height="18dp"
+                android:id="@+id/assignedBy"
+                android:fontFamily="sans-serif-condensed-light"
+                app:layout_constraintStart_toEndOf="@+id/ChoreImageIcon"
+                android:layout_marginLeft="12dp" android:layout_marginStart="12dp"
+                android:text="@string/assigned_by"
+                app:layout_constraintTop_toBottomOf="@+id/assignedTo"
+                android:textColor="@color/colorSecondaryText" android:textSize="14sp"/>
+        <TextView
+                android:layout_width="250dp"
+                android:layout_height="18dp"
+                android:id="@+id/assignedTo"
+                app:layout_constraintStart_toEndOf="@+id/ChoreImageIcon"
+                android:layout_marginLeft="12dp"
+                android:layout_marginStart="12dp"
+                android:fontFamily="sans-serif-condensed-light" android:text="@string/assigned_to"
+                app:layout_constraintTop_toBottomOf="@+id/enterChore"
+                android:textColor="@color/colorSecondaryText" android:textSize="14sp" android:layout_marginTop="5dp"/>
+        <TextView
+                android:layout_width="175dp"
+                android:layout_height="20dp"
+                android:id="@+id/enterChore"
+                android:textSize="18sp"
+                app:layout_constraintStart_toEndOf="@+id/ChoreImageIcon"
+                android:layout_marginLeft="12dp"
+                android:layout_marginStart="12dp"
+                android:text="@string/enter_a_chore"
+                android:layout_marginTop="20dp" app:layout_constraintTop_toTopOf="parent"
+                android:textColor="@android:color/background_light" android:fontFamily="sans-serif-condensed-light"
+                android:textStyle="bold"/>
+        <ImageView
+                android:layout_width="55dp"
+                android:layout_height="50dp"
+                android:id="@+id/ChoreImageIcon"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginLeft="24dp"
+                android:layout_marginStart="24dp"
+                app:srcCompat="@drawable/ic_chore_list"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"/>
+        <TextView
+                android:text="Jan 7, 2017"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorSecondaryText" app:layout_constraintStart_toEndOf="@+id/enterChore"
+                app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="20dp" android:id="@+id/createdDate"/>
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.constraint.ConstraintLayout>
