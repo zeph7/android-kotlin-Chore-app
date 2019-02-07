@@ -53,11 +53,13 @@ To directly download the apk visit the [link](https://github.com/ashish7zeph/and
 <img alt="App image" src="screenshots/img3.jpg" width="30%" hspace="10">
 </div>
 .
+.
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img4.jpg" width="30%" hspace="10">
 <img alt="App image" src="screenshots/img5.jpg" width="30%" hspace="10">
 <img alt="App image" src="screenshots/img6.jpg" width="30%" hspace="10">
 </div>
+.
 .
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img7.jpg" width="30%" hspace="10">
@@ -79,4 +81,6 @@ Frontend resource files are stored in `res` package
 
 * [res](https://github.com/ashish7zeph/android-kotlin-Chore-app/tree/master/app/src/main/res)
 
-[AndroidManifest.xml](https://github.com/ashish7zeph/android-kotlin-Chore-app/blob/master/app/src/main/AndroidManifest.xml)
+Android manifest file for the project:
+
+* [AndroidManifest.xml](https://github.com/ashish7zeph/android-kotlin-Chore-app/blob/master/app/src/main/AndroidManifest.xml)
