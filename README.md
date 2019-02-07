@@ -50,19 +50,19 @@ To directly download the apk visit the [link](https://github.com/ashish7zeph/and
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img1.jpg" width="30%" hspace="10">
 <img alt="App image" src="screenshots/img2.jpg" width="30%" hspace="10">
-<img alt="App image" src="screenshots/img3.jpg" width="30%" hspace="10" vspave="20">
+<img alt="App image" src="screenshots/img3.jpg" width="30%" hspace="10">
 </div>
-
+<br/>
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img4.jpg" width="30%" hspace="10">
 <img alt="App image" src="screenshots/img5.jpg" width="30%" hspace="10">
-<img alt="App image" src="screenshots/img6.jpg" width="30%" hspace="10" vspave="20">
+<img alt="App image" src="screenshots/img6.jpg" width="30%" hspace="10">
 </div>
-
+<br/>
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img7.jpg" width="30%" hspace="10">
 <img alt="App image" src="screenshots/img8.jpg" width="30%" hspace="10">
-<img alt="App image" src="screenshots/img9.jpg" width="30%" hspace="10" vspave="20">
+<img alt="App image" src="screenshots/img9.jpg" width="30%" hspace="10">
 </div>
 
 ## Kotlin Android Activity
