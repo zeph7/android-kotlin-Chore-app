@@ -10,7 +10,7 @@
 
 Build a Chore record app with kotlin support
 
-It is an Chore/Job record app with offline database to store the jobs assigned to different person by some another person for having a record of a group of tasks assigned to diffent person for any project work. A custom ListView holds the info: `Job`, `assigned to`, `assigned by`, `date of creation`.Any item in the ListView can be `edited`, `updated` and also `deleted` as well, any time by a `ClickListener` on the items of the ListView.
+It is an Chore/Job record app with offline database to store the jobs assigned to different person by some another person for having a record of a group of tasks assigned to different person for any project work. A custom ListView holds the info: `Job`, `assigned to`, `assigned by`, `date of creation`.Any item in the ListView can be `edited`, `updated` and also `deleted` as well, any time by a `ClickListener` on the items of the ListView.
 
 Its a Database Chore Record App!!
 
