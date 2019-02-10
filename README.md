@@ -69,7 +69,7 @@ To directly download the apk visit the [link](https://github.com/ashish7zeph/and
 
 ## Kotlin Android Activity
 
-For Kotlin code files visit the [link](https://github.com/ashish7zeph/android-kotlin-Chore-app/tree/master/app/src/main/java/com/zeph7/gravity)
+For Kotlin code files visit the [link](https://github.com/ashish7zeph/android-kotlin-Chore-app/tree/master/app/src/main/java/com/zeph7/choreapplication)
 
 Backend files are stored in three packages:
 
